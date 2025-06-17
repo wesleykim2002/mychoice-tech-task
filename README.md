@@ -9,7 +9,9 @@ To run the React Frontend, please run the following commands:
 
 ## Backend
 
-To run the Django backend, cd to the DjangoAPI folder
+To ensure that all of the required packages are downloaded, first run: `pip install requirements.txt` in the terminal
+
+To run the Django backend in a new terminal and cd to the DjangoAPI folder
 
 Then run the following commands:
 
